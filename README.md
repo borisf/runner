@@ -1,6 +1,6 @@
 Runner
 ======
 
-Rust native executable that call JVM with the jar file
+Rust native executable that calls JVM with the jar file
 
 
